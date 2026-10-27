@@ -1,4 +1,4 @@
-# cis165-lab7-
+# cis165-lab7
 Name: Kamryn Davis
 
 Course section: CIS-165-W099
