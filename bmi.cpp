@@ -42,4 +42,4 @@ int main() {
     std::cout << "Category: " << category << '\n';
 
     return 0;
-}
+} 
